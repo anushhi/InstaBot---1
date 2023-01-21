@@ -8,7 +8,7 @@
     
 2 - Type for “food” in search bar and print all the names of the Instagram Handles that are displayed in list after typing “food”
 
-    2 - Note : Make sure to avoid printing hashtags
+    1 - Note : Make sure to avoid printing hashtags
     
     
 3 - Searching and Opening a profile using 
@@ -40,6 +40,9 @@
     
 
 7 - Check the story of ‘coding.ninjas’. Consider the following Scenarios and print error messages accordingly -
+
     1 - If You have already seen the story.
+    
     2 - Or The user has no story.
+    
     3 - Or View the story if not yet seen.
